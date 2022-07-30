@@ -6,5 +6,6 @@ function showPrimes(limit) {
     console.log("Walla Walla Wooooo")
     let die = "String"
     console.log("im on the other computer")
+    console.log("Hi computer2")
 
 }
